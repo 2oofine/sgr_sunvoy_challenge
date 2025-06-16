@@ -8,4 +8,7 @@ type User = {
 type AuthPayload = {
   username: string;
   password: string;
+  nonce: string;
 };
+
+export { User, AuthPayload };

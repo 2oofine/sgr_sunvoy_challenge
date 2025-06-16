@@ -23,6 +23,7 @@
   "devDependencies": {
     "@tsconfig/node24": "^24.0.1",
     "@types/node": "^24.0.1",
+    "axios": "^1.10.0",
     "tsc-watch": "^7.1.1",
     "typescript": "^5.8.3"
   }
