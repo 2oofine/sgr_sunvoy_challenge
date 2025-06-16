@@ -1,0 +1,26 @@
+{
+  "name": "sgr_sunvoy_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2oofine/sgr_sunvoy_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/2oofine/sgr_sunvoy_challenge/issues"
+  },
+  "homepage": "https://github.com/2oofine/sgr_sunvoy_challenge#readme",
+  "devDependencies": {
+    "@tsconfig/node24": "^24.0.1",
+    "@types/node": "^24.0.1",
+    "typescript": "^5.8.3"
+  }
+}
