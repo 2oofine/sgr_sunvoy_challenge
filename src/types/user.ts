@@ -11,4 +11,15 @@ type AuthPayload = {
   nonce: string;
 };
 
-export { User, AuthPayload };
+type TokenSettings = {
+  access_token: string;
+  apiuser: string;
+  language: string;
+  openId: string;
+  operateId: string;
+  timestamp: string;
+  userId: string;
+  checkcode?: string;
+};
+
+export { User, AuthPayload, TokenSettings };
